@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "835516653942",
+    "firebase_url": "https://cafe-95128-default-rtdb.firebaseio.com",
+    "project_id": "cafe-95128",
+    "storage_bucket": "cafe-95128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835516653942:android:d640d8f974fd1ad34d9a57",
+        "android_client_info": {
+          "package_name": "com.note.cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmFEowuTJGgO-1UYNSJThGFkM_p2h47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835516653942:android:62abd7c3c36efe3e4d9a57",
+        "android_client_info": {
+          "package_name": "com.note.cafeProject1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmFEowuTJGgO-1UYNSJThGFkM_p2h47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835516653942:android:26700a1078248b814d9a57",
+        "android_client_info": {
+          "package_name": "com.note.cafemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmFEowuTJGgO-1UYNSJThGFkM_p2h47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835516653942:android:adfa54ce7536cbcf4d9a57",
+        "android_client_info": {
+          "package_name": "com.note.cafemanagercash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmFEowuTJGgO-1UYNSJThGFkM_p2h47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

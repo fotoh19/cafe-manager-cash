@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="minusCartBtn" type="id" />
+    <item name="plusCartBtn" type="id" />
+    <item name="picCart" type="id" />
+    <item name="feeEacheItem" type="id" />
+    <item name="totalEacheItem" type="id" />
+</resources>
